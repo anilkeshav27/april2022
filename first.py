@@ -6,3 +6,6 @@ def some2_function():
 
 a = some2_function
 a()
+
+def some3_function():
+    None
