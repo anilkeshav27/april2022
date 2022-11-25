@@ -8,4 +8,4 @@ a = some2_function
 a()
 
 def some3_function():
-    None
+    print("anothe hello2")
