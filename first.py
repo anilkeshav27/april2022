@@ -1,7 +1,7 @@
 import os
 
-def some_function():
+def some1_function():
     print("hello")
 
-a = some_function
+a = some1_function
 a()
