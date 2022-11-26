@@ -1,6 +1,6 @@
 import os
 
-def some2_function_n1w():
+def some2_function_n2w():
     print("hello")
     print("another line")
 
