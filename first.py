@@ -1,6 +1,6 @@
 import os
 
-def some2_function():
+def some2_function_new():
     print("hello")
     print("another line")
 
